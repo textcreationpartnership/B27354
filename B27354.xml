@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Commissioners appointed by his Majesty, for the repairing the high-wayes and sewers, and for keeping clean of the streets, in, and about the city of London and Westminster, &amp;c.</title>
+            <author>Newport, Maurice, 1611-1687.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27354</idno><idno type="EEBO-CITATION">99886823</idno>
+  <idno type="VID">192460</idno>
+  <idno type="EEBO-PROQUEST">2264217069</idno>
+  
+            <idno type="STC">Wing N938</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[25]</idno>
+            <idno type="STC">ESTC R226642</idno>
+            <idno type="PROQUEST">ocm99886823</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886823e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192460)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[125])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Commissioners appointed by his Majesty, for the repairing the high-wayes and sewers, and for keeping clean of the streets, in, and about the city of London and Westminster, &amp;c.</title>
+                  <author>Newport, Maurice, 1611-1687.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. G[rismond] printer to the said Commissioners,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Arms 62; Steele notation: Reigne, bans Officer.</note>
+                  <note>Dated and signed at end: Given at the office of his Majesties vvorkes in Scotland-Yard, the 17th day of July 1662. Mo. Newport [and 10 others].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roads --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sewage disposal in rivers, lakes, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192460:1"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of English coat of arms, circa 1662</figDesc>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV · ET MON · DROIT</p>
+               </figure>By the Commissioners appointed by his Majesty, for the Repairing the High-Wayes and Sewers, and for keeping Clean of the Streets, in, and about the Ci<g ref="char:EOLhyphen"/>ty of <hi>LONDON</hi> and <hi>WESTMINSTER,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in pursuance of an Act of Parliament made in the Thirteenth and Fourteenth year of his Majesties Reigne, and Entituled, An Act for Repairing of High-Wayes, and for Paving and keeping clean of the Streets, in, and a<g ref="char:EOLhyphen"/>bout the Cities of <hi>London</hi> and <hi>Westminster,</hi> &amp;c. His Majesty according to the said Act, hath Issued his Commission under his Great Seal of <hi>England,</hi> unto us <hi>Montjoy</hi> Earl of <hi>Newport, Jeronimo</hi> Earl of <hi>Portland, Henry</hi> Earl of <hi>S<seg rend="sup">t</seg> Al<g ref="char:EOLhyphen"/>bans, Anthony</hi> Lord <hi>Ashley,</hi> Sir <hi>Charles Berkeley, John Ashburnham</hi> Esquire, <hi>Daniel Oneale</hi> Esquire, Sir <hi>Robert Howard,</hi> Sir <hi>John Denham</hi> Knight of the <hi>Bath,</hi> Sir <hi>Richard Anslowe,</hi> Sir <hi>Thomas Ingram,</hi> Sir <hi>William Petty, Stephen Fox</hi> Esquire, <hi>Ed<g ref="char:EOLhyphen"/>ward Waller</hi> Esquire, <hi>William Glascocke</hi> Esquire, <hi>Clement Spelman</hi> Esquire, <hi>John Evelyn</hi> Esquire, <hi>Hugh May</hi> Esquire, <hi>Thomas Bales</hi> Es<g ref="char:EOLhyphen"/>quire, <hi>Reynold Graham</hi> Esquire, and <hi>Anthony Ayre</hi> Esquire, or any five of Vs, to perform and execute the severall Clauses and Pow<g ref="char:EOLhyphen"/>ers, in and by the said Act directed. And whereas by the said Act, all Persons are commanded to Sweep the Streets, <hi>&amp;c.</hi> before their Houses and Walls, and the same take up in Baskets or other Vessels, every Wednesday and Saturday in every Week, for the Ra<g ref="char:EOLhyphen"/>ker to carry away, upon pain of Three Shillings and Four Pence. And that all Persons are prohibited, to cast or lay any Seacoale-Ashes, Dust, or other Annoyance in any Street or Lane within the places aforesaid, before their own Doore, upon pain of Five Shillings, or before the Doore or Wall of any other Inhabitants, or cast it into any private or publick Sink, Water-Course, or High-Way, but keep the same in Tubbs or other Vessels, and deliver it to the Scavenger, upon pain of Twenty Shillings for every Offence. And that no Person Hoop or Wash any Caske or Vessel in the Street, or set empty Coaches, rough Timber, or Stones in the Street, up<g ref="char:EOLhyphen"/>on pain of Twenty Shillings for every Offence. And it is Enacted, That all Scavengers, every Day (except Sunday and other Holy-Dayes) bring their Carts, and carry away the Dirt in their severall Parishes; and before their approach, give notice of their coming, by a Bell, Horn, or Clapper, upon pain of Fourty Shillings for every such Neglect. And also, that every the Inhabitants, from <hi>Michaelmas</hi> unto our <hi>Lady-Day,</hi> from the time it grows Dark, untill Nine of the Clock at Night, shall set forth Lights, upon pain of one Shilling: And al<g ref="char:EOLhyphen"/>so, that all and every Housholder, Repaire and keep Repaired, the Street or Lane before his House or Wall, upon pain of Twenty Shil<g ref="char:EOLhyphen"/>lings. And whereas the said Commissioners have formerly Issued severall Orders for the Paving and Cleansing of the said Streets, and removing Nusances thence, but the same have not taken effect as desired: whereupon the said Commissioners, conceiving the Neglect of the said Statute and Orders proceeds from the (Persons concerned) want of knowledg of the said Particulars Imposed and Enjoyned by the Law; have therefore thought fit hereby to informe them of their duty, and forewarn them of their danger, and earnestly require all Persons, to observe and performe the severall Clauses and Articles in the said Statute on their part to be performed. And to the intent that respect may be had for the due performance of these and all other duties contained in the said Act, We the Commissioners have ap<g ref="char:EOLhyphen"/>pointed <hi>Stafford Tyndall,</hi> and <hi>James Reade</hi> Esquires, to be our Supervisors, Authorizing them to appoint their Deputy or Deputies, to see the same duly executed and performed. And in case any Inhabitants find themselves prejudiced by the Comportment of any Officer whatsoever that shall be imployed herein, upon their Complaint to Vs, they, and every of them shall have Redresse.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Office of his Majesties Works in <hi>Scotland</hi>-Yard,</hi>
+                  <date>
+                     <hi>the 17<seg rend="sup">th</seg> Day of <hi>July</hi> 1662.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Mo. Newport.</hi>
+                     </item>
+                     <item>
+                        <hi>A. Ashley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ro. Howard.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Denham.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Ingram.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Glascock.</hi>
+                     </item>
+                     <item>
+                        <hi>Clem. Spelman.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Evelyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh May.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Bales.</hi>
+                     </item>
+                     <item>
+                        <hi>A. Aeyre.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. G.</hi> Printer to the said Commissioners. 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
